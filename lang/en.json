@@ -1,0 +1,22 @@
+{
+    "web_hacking": "Web Hacking tools",
+    "social": "Social Engineering tools",
+    "game": "Game",
+    "pass_hack": "Password Attack tools",
+    "inf_tools": "Information tools",
+    "back_to_menu": "Return to menu",
+    "quit_the_tool": "Quit the tool",
+    "exits_the_tool": "Exits the tool...",
+    "quit": "Exit",
+    "wc": "Wrong Choice !",
+    "restart_tool": "The tool restarts...",
+    "is_loading": "is loading...",
+    "downloaded": "Download Completed !",
+    "f4k3": "You can launch the tool by typing '{fake}'.",
+    "lite": "You can launch the tool by typing '{lt}'.",
+    "nsnake": "You can start the game by typing '{snake}'.",
+    "nmap": "You can launch the tool by typing '{nmp}'.",
+    "information": "About Tool",
+    "tool_maker": "Written By Tool {author}",
+    "TM": "WRITTEN BY TOOL {author}"
+}

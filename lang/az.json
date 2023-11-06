@@ -1,0 +1,22 @@
+{
+    "web_hacking": "Web Hacking üçün toollar",
+    "social": "Sosial Mühəndislik üçün toollar",
+    "game": "Oyunlar",
+    "pass_hack": "Parol Hücumları üçün toollar",
+    "inf_tools": "İnformasiya toolları",
+    "back_to_menu": "Menyuya Qayıtmaq",
+    "quit_the_tool": "Tool-dan Çıxış",
+    "exits_the_tool": "Tool-dan Çıxılır...",
+    "quit": "Çıxış",
+    "wc": "Yanlış Seçim !",
+    "restart_tool": "Tool Yenidən Başladılır...",
+    "is_loading": "Yüklənir...",
+    "downloaded": "Yüklənmə Tamamlandı !",
+    "f4k3": "Tool-u '{fake}' Yazaraq Başlada Bilərsiniz.",
+    "lite": "Tool-u '{lt}' Yazaraq Başlada Bilərsiniz.",
+    "nsnake": "Oyunu '{snake}' Yazaraq Başlada Bilərsiniz.",
+    "nmap": "Tool-u '{nmp}' Yazaraq Başlada Bilərsiniz.",
+    "information": "Tool Haqqında",
+    "tool_maker": "Tool {author} Tərəfindən Yazılmışdır",
+    "TM": "TOOL {author} TƏRƏFİNDƏN YAZILMIŞDIR"
+}
