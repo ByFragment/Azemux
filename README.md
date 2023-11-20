@@ -25,3 +25,7 @@ EN > It is for Tool Termux. It is a single tool that combines a variety of tools
 # Əlaqə / Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram%20-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=008000")](https://t.me/FR46M3N7)
+
+# Bağış / Donate 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/images/bmc_button.png)](https://www.buymeacoffee.com/fr46m3n7)
