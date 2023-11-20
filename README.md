@@ -28,4 +28,4 @@ EN > It is for Tool Termux. It is a single tool that combines a variety of tools
 
 # Bağış / Donate 
 
-<a href="https://www.buymeacoffee.com/fr46m3n7" target="_blank"><img src="https://github.com/ByFragment/Azemux/images/bmc.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/fr46m3n7" target="_blank"><img src="https://github.com/ByFragment/Azemux/blob/main/images/bmc.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
